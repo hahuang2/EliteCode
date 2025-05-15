@@ -1,0 +1,2702 @@
+[
+    {
+        "id": 1,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Arrays"
+    },
+    {
+        "id": 2,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 3,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 4,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Search"
+    },
+    {
+        "id": 5,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 6,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 7,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Arrays"
+    },
+    {
+        "id": 8,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Math"
+    },
+    {
+        "id": 9,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Sorting"
+    },
+    {
+        "id": 10,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Strings"
+    },
+    {
+        "id": 11,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Arrays"
+    },
+    {
+        "id": 12,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Search"
+    },
+    {
+        "id": 13,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 14,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Recursion"
+    },
+    {
+        "id": 15,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Math"
+    },
+    {
+        "id": 16,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Sorting"
+    },
+    {
+        "id": 17,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Math"
+    },
+    {
+        "id": 18,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 19,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Search"
+    },
+    {
+        "id": 20,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Sorting"
+    },
+    {
+        "id": 21,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Arrays"
+    },
+    {
+        "id": 22,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Search"
+    },
+    {
+        "id": 23,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Strings"
+    },
+    {
+        "id": 24,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Arrays"
+    },
+    {
+        "id": 25,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Graphs"
+    },
+    {
+        "id": 26,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Arrays"
+    },
+    {
+        "id": 27,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Strings"
+    },
+    {
+        "id": 28,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Sorting"
+    },
+    {
+        "id": 29,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Math"
+    },
+    {
+        "id": 30,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 31,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Arrays"
+    },
+    {
+        "id": 32,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Graphs"
+    },
+    {
+        "id": 33,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 34,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Recursion"
+    },
+    {
+        "id": 35,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Recursion"
+    },
+    {
+        "id": 36,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 37,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Strings"
+    },
+    {
+        "id": 38,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Sorting"
+    },
+    {
+        "id": 39,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Search"
+    },
+    {
+        "id": 40,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 41,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Arrays"
+    },
+    {
+        "id": 42,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 43,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 44,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Arrays"
+    },
+    {
+        "id": 45,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 46,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Recursion"
+    },
+    {
+        "id": 47,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 48,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Graphs"
+    },
+    {
+        "id": 49,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Graphs"
+    },
+    {
+        "id": 50,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Sorting"
+    },
+    {
+        "id": 51,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Math"
+    },
+    {
+        "id": 52,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 53,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Math"
+    },
+    {
+        "id": 54,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Sorting"
+    },
+    {
+        "id": 55,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 56,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Sorting"
+    },
+    {
+        "id": 57,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Sorting"
+    },
+    {
+        "id": 58,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Sorting"
+    },
+    {
+        "id": 59,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 60,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Sorting"
+    },
+    {
+        "id": 61,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Sorting"
+    },
+    {
+        "id": 62,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Arrays"
+    },
+    {
+        "id": 63,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Search"
+    },
+    {
+        "id": 64,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Math"
+    },
+    {
+        "id": 65,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Recursion"
+    },
+    {
+        "id": 66,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Sorting"
+    },
+    {
+        "id": 67,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Math"
+    },
+    {
+        "id": 68,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Recursion"
+    },
+    {
+        "id": 69,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Recursion"
+    },
+    {
+        "id": 70,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Graphs"
+    },
+    {
+        "id": 71,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Recursion"
+    },
+    {
+        "id": 72,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 73,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Sorting"
+    },
+    {
+        "id": 74,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Arrays"
+    },
+    {
+        "id": 75,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Arrays"
+    },
+    {
+        "id": 76,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Graphs"
+    },
+    {
+        "id": 77,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 78,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Sorting"
+    },
+    {
+        "id": 79,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 80,
+        "title": "Reverse a String",
+        "description": "Write a program that reverses a given string.",
+        "difficulty": "Easy",
+        "input_example": "hello",
+        "output_example": "olleh",
+        "topic": "Sorting"
+    },
+    {
+        "id": 81,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Math"
+    },
+    {
+        "id": 82,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 83,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 84,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 85,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Sorting"
+    },
+    {
+        "id": 86,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 87,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Arrays"
+    },
+    {
+        "id": 88,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Math"
+    },
+    {
+        "id": 89,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Sorting"
+    },
+    {
+        "id": 90,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Search"
+    },
+    {
+        "id": 91,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Graphs"
+    },
+    {
+        "id": 92,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Search"
+    },
+    {
+        "id": 93,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Strings"
+    },
+    {
+        "id": 94,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Math"
+    },
+    {
+        "id": 95,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Arrays"
+    },
+    {
+        "id": 96,
+        "title": "Find Maximum of Two Numbers",
+        "description": "Find the maximum of two given numbers.",
+        "difficulty": "Easy",
+        "input_example": "7 10",
+        "output_example": "10",
+        "topic": "Graphs"
+    },
+    {
+        "id": 97,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 98,
+        "title": "Convert Celsius to Fahrenheit",
+        "description": "Convert a given Celsius temperature to Fahrenheit.",
+        "difficulty": "Easy",
+        "input_example": "100",
+        "output_example": "212.0",
+        "topic": "Sorting"
+    },
+    {
+        "id": 99,
+        "title": "Check Even or Odd",
+        "description": "Determine whether a given integer is even or odd.",
+        "difficulty": "Easy",
+        "input_example": "4",
+        "output_example": "Even",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 100,
+        "title": "Sum of Two Numbers",
+        "description": "Write a function that takes two integers as input and returns their sum.",
+        "difficulty": "Easy",
+        "input_example": "5 3",
+        "output_example": "8",
+        "topic": "Arrays"
+    },
+    {
+        "id": 101,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Recursion"
+    },
+    {
+        "id": 102,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Strings"
+    },
+    {
+        "id": 103,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Recursion"
+    },
+    {
+        "id": 104,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Graphs"
+    },
+    {
+        "id": 105,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Search"
+    },
+    {
+        "id": 106,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 107,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 108,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Math"
+    },
+    {
+        "id": 109,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Strings"
+    },
+    {
+        "id": 110,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Math"
+    },
+    {
+        "id": 111,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Graphs"
+    },
+    {
+        "id": 112,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 113,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Recursion"
+    },
+    {
+        "id": 114,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Sorting"
+    },
+    {
+        "id": 115,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Search"
+    },
+    {
+        "id": 116,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Recursion"
+    },
+    {
+        "id": 117,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Search"
+    },
+    {
+        "id": 118,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Recursion"
+    },
+    {
+        "id": 119,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Strings"
+    },
+    {
+        "id": 120,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Math"
+    },
+    {
+        "id": 121,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Math"
+    },
+    {
+        "id": 122,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 123,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Search"
+    },
+    {
+        "id": 124,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Math"
+    },
+    {
+        "id": 125,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Recursion"
+    },
+    {
+        "id": 126,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Sorting"
+    },
+    {
+        "id": 127,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Search"
+    },
+    {
+        "id": 128,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Graphs"
+    },
+    {
+        "id": 129,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 130,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 131,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Graphs"
+    },
+    {
+        "id": 132,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Graphs"
+    },
+    {
+        "id": 133,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 134,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Search"
+    },
+    {
+        "id": 135,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Math"
+    },
+    {
+        "id": 136,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Arrays"
+    },
+    {
+        "id": 137,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Graphs"
+    },
+    {
+        "id": 138,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Arrays"
+    },
+    {
+        "id": 139,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Recursion"
+    },
+    {
+        "id": 140,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Sorting"
+    },
+    {
+        "id": 141,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Graphs"
+    },
+    {
+        "id": 142,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Math"
+    },
+    {
+        "id": 143,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Search"
+    },
+    {
+        "id": 144,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Math"
+    },
+    {
+        "id": 145,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Strings"
+    },
+    {
+        "id": 146,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Graphs"
+    },
+    {
+        "id": 147,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Search"
+    },
+    {
+        "id": 148,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Recursion"
+    },
+    {
+        "id": 149,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Sorting"
+    },
+    {
+        "id": 150,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Math"
+    },
+    {
+        "id": 151,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 152,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 153,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Arrays"
+    },
+    {
+        "id": 154,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Math"
+    },
+    {
+        "id": 155,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Recursion"
+    },
+    {
+        "id": 156,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Arrays"
+    },
+    {
+        "id": 157,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Search"
+    },
+    {
+        "id": 158,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 159,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Arrays"
+    },
+    {
+        "id": 160,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Math"
+    },
+    {
+        "id": 161,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Math"
+    },
+    {
+        "id": 162,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Graphs"
+    },
+    {
+        "id": 163,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Sorting"
+    },
+    {
+        "id": 164,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Strings"
+    },
+    {
+        "id": 165,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 166,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Math"
+    },
+    {
+        "id": 167,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 168,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Sorting"
+    },
+    {
+        "id": 169,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Sorting"
+    },
+    {
+        "id": 170,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Recursion"
+    },
+    {
+        "id": 171,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Sorting"
+    },
+    {
+        "id": 172,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Arrays"
+    },
+    {
+        "id": 173,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Sorting"
+    },
+    {
+        "id": 174,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Arrays"
+    },
+    {
+        "id": 175,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Search"
+    },
+    {
+        "id": 176,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Math"
+    },
+    {
+        "id": 177,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Math"
+    },
+    {
+        "id": 178,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Recursion"
+    },
+    {
+        "id": 179,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Graphs"
+    },
+    {
+        "id": 180,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 181,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Strings"
+    },
+    {
+        "id": 182,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Recursion"
+    },
+    {
+        "id": 183,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Strings"
+    },
+    {
+        "id": 184,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Strings"
+    },
+    {
+        "id": 185,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Search"
+    },
+    {
+        "id": 186,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Recursion"
+    },
+    {
+        "id": 187,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 188,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Strings"
+    },
+    {
+        "id": 189,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Graphs"
+    },
+    {
+        "id": 190,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Search"
+    },
+    {
+        "id": 191,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 192,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 193,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Graphs"
+    },
+    {
+        "id": 194,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Recursion"
+    },
+    {
+        "id": 195,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Math"
+    },
+    {
+        "id": 196,
+        "title": "Rotate an Array",
+        "description": "Rotate an array k steps to the right.",
+        "difficulty": "Medium",
+        "input_example": "5\n1 2 3 4 5\n2",
+        "output_example": "4 5 1 2 3",
+        "topic": "Arrays"
+    },
+    {
+        "id": 197,
+        "title": "Find Longest Word",
+        "description": "Find the longest word in a given sentence.",
+        "difficulty": "Medium",
+        "input_example": "The quick brown fox",
+        "output_example": "quick",
+        "topic": "Math"
+    },
+    {
+        "id": 198,
+        "title": "Find the Majority Element",
+        "description": "Find the element that appears more than n/2 times in an array.",
+        "difficulty": "Medium",
+        "input_example": "5\n3 3 4 2 3",
+        "output_example": "3",
+        "topic": "Graphs"
+    },
+    {
+        "id": 199,
+        "title": "Two Sum Problem",
+        "description": "Find two numbers in an array that add up to a given target.",
+        "difficulty": "Medium",
+        "input_example": "5\n2 7 11 15 1\n9",
+        "output_example": "2 7",
+        "topic": "Search"
+    },
+    {
+        "id": 200,
+        "title": "Valid Parentheses",
+        "description": "Check if a given string of parentheses is valid.",
+        "difficulty": "Medium",
+        "input_example": "(())",
+        "output_example": "Valid",
+        "topic": "Recursion"
+    },
+    {
+        "id": 201,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Search"
+    },
+    {
+        "id": 202,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Graphs"
+    },
+    {
+        "id": 203,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Search"
+    },
+    {
+        "id": 204,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Sorting"
+    },
+    {
+        "id": 205,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 206,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Arrays"
+    },
+    {
+        "id": 207,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Graphs"
+    },
+    {
+        "id": 208,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 209,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Strings"
+    },
+    {
+        "id": 210,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Strings"
+    },
+    {
+        "id": 211,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 212,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Graphs"
+    },
+    {
+        "id": 213,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Strings"
+    },
+    {
+        "id": 214,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Sorting"
+    },
+    {
+        "id": 215,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 216,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 217,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Arrays"
+    },
+    {
+        "id": 218,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 219,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 220,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Search"
+    },
+    {
+        "id": 221,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 222,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 223,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 224,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 225,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Strings"
+    },
+    {
+        "id": 226,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Recursion"
+    },
+    {
+        "id": 227,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Strings"
+    },
+    {
+        "id": 228,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Graphs"
+    },
+    {
+        "id": 229,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 230,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Sorting"
+    },
+    {
+        "id": 231,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Arrays"
+    },
+    {
+        "id": 232,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Math"
+    },
+    {
+        "id": 233,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Arrays"
+    },
+    {
+        "id": 234,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 235,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 236,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Search"
+    },
+    {
+        "id": 237,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Arrays"
+    },
+    {
+        "id": 238,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 239,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Graphs"
+    },
+    {
+        "id": 240,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 241,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Arrays"
+    },
+    {
+        "id": 242,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Math"
+    },
+    {
+        "id": 243,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Search"
+    },
+    {
+        "id": 244,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 245,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 246,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Arrays"
+    },
+    {
+        "id": 247,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Search"
+    },
+    {
+        "id": 248,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 249,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Arrays"
+    },
+    {
+        "id": 250,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Math"
+    },
+    {
+        "id": 251,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 252,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Recursion"
+    },
+    {
+        "id": 253,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Math"
+    },
+    {
+        "id": 254,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Arrays"
+    },
+    {
+        "id": 255,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Search"
+    },
+    {
+        "id": 256,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Search"
+    },
+    {
+        "id": 257,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Arrays"
+    },
+    {
+        "id": 258,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Arrays"
+    },
+    {
+        "id": 259,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Strings"
+    },
+    {
+        "id": 260,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 261,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Strings"
+    },
+    {
+        "id": 262,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 263,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Search"
+    },
+    {
+        "id": 264,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Sorting"
+    },
+    {
+        "id": 265,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Strings"
+    },
+    {
+        "id": 266,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Arrays"
+    },
+    {
+        "id": 267,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Strings"
+    },
+    {
+        "id": 268,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Strings"
+    },
+    {
+        "id": 269,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 270,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Strings"
+    },
+    {
+        "id": 271,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Graphs"
+    },
+    {
+        "id": 272,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Recursion"
+    },
+    {
+        "id": 273,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 274,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Strings"
+    },
+    {
+        "id": 275,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 276,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Math"
+    },
+    {
+        "id": 277,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Graphs"
+    },
+    {
+        "id": 278,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 279,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Recursion"
+    },
+    {
+        "id": 280,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Recursion"
+    },
+    {
+        "id": 281,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Math"
+    },
+    {
+        "id": 282,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Recursion"
+    },
+    {
+        "id": 283,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Bit Manipulation"
+    },
+    {
+        "id": 284,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Arrays"
+    },
+    {
+        "id": 285,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 286,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Search"
+    },
+    {
+        "id": 287,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Arrays"
+    },
+    {
+        "id": 288,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Graphs"
+    },
+    {
+        "id": 289,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Search"
+    },
+    {
+        "id": 290,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Arrays"
+    },
+    {
+        "id": 291,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Graphs"
+    },
+    {
+        "id": 292,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Recursion"
+    },
+    {
+        "id": 293,
+        "title": "Knapsack Problem",
+        "description": "Solve the 0/1 Knapsack problem using dynamic programming.",
+        "difficulty": "Hard",
+        "input_example": "3\n60 100 120\n10 20 30\n50",
+        "output_example": "220",
+        "topic": "Search"
+    },
+    {
+        "id": 294,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Recursion"
+    },
+    {
+        "id": 295,
+        "title": "Graph Cycle Detection",
+        "description": "Detect if a given directed graph has a cycle.",
+        "difficulty": "Hard",
+        "input_example": "4 4\n0 1\n1 2\n2 3\n3 1",
+        "output_example": "Cycle Detected",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 296,
+        "title": "Longest Increasing Subsequence",
+        "description": "Find the length of the longest increasing subsequence in an array.",
+        "difficulty": "Hard",
+        "input_example": "6\n10 9 2 5 3 7 101 18",
+        "output_example": "4",
+        "topic": "Recursion"
+    },
+    {
+        "id": 297,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 298,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 299,
+        "title": "Dijkstra\u2019s Algorithm",
+        "description": "Find the shortest path between nodes in a graph.",
+        "difficulty": "Hard",
+        "input_example": "5 6\n0 1 10\n0 3 30\n0 4 100\n1 2 50\n2 4 10\n3 4 60",
+        "output_example": "0 -> 1: 10\n0 -> 3: 30\n0 -> 2: 60\n0 -> 4: 70",
+        "topic": "Dynamic Programming"
+    },
+    {
+        "id": 300,
+        "title": "Trie Data Structure",
+        "description": "Implement a Trie (Prefix Tree) data structure and insert words.",
+        "difficulty": "Hard",
+        "input_example": "apple,app,ape",
+        "output_example": "Inserted",
+        "topic": "Recursion"
+    }
+]

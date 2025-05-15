@@ -1,0 +1,79 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User{
+  email String 
+  password String
+  username String @unique
+  totalWins Int
+  totalLosses Int
+  totalGames Int
+  timePlayed Int
+  @@id([username])
+}
+
+model Room{
+  id Int @id @default(autoincrement()) @unique
+  maxPeople Int
+  numPeople Int
+  private Boolean
+  active Boolean
+  owner String
+  difficulty Difficulty @default(Easy)
+  createdAt DateTime @default(now()) 
+}
+
+enum Difficulty {
+  Easy
+  Medium
+  Hard
+}
+
+model Game {
+  id Int @id @default(autoincrement())
+  rid Int @unique
+  room Room @relation(fields: [rid], references: [id], onDelete: Cascade)
+  numQuestions Int
+}
+
+model Solution{
+  id Int @id @default(autoincrement()) @unique
+  code String
+  time Int
+  username String
+  qid Int
+  user User @relation(fields:[username], references:[username])
+  question Question @relation(fields:[qid],references:[id])
+}
+
+model Question{
+  id Int @id @default(autoincrement()) @unique
+  title String
+  description String
+  difficulty String
+  hints String
+  answer String
+  Type String
+  Time int
+}
+
+model gameQuestion{
+  gid Int
+  qid Int
+  question Question @relation(fields:[qid], references:[id])
+  game Game @relation(fields:[gid], references:[id])
+  @@id([gid,qid])
+}
+

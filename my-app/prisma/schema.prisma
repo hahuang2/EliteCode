@@ -1,0 +1,100 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  email       String
+  password    String
+  username    String     @id @unique
+  totalGames  Int
+  totalLosses Int
+  totalWins   Int
+  rid         Int?
+  solutions   Solution[]
+  room        Room?      @relation(fields: [rid], references: [id])
+  User_A      User[]     @relation("UserFriends")
+  User_B      User[]     @relation("UserFriends")
+}
+
+model Room {
+  id         Int        @id @unique @default(autoincrement())
+  maxPeople  Int
+  numPeople  Int
+  private    Boolean
+  active     Boolean
+  difficulty Difficulty @default(Easy)
+  owner      String
+  createdAt  DateTime   @default(now())
+  numProblems Int
+  problemTypes String[]
+  games      Game[]
+  Message    Message[]
+  users      User[]
+}
+
+model Game {
+  id            Int            @id @unique @default(autoincrement())
+  numQuestions  Int
+  rid           Int
+  room          Room           @relation(fields: [rid], references: [id], onDelete: Cascade)
+  solutions     Solution[]
+  gameQuestions gameQuestion[]
+}
+
+model Question {
+  id             Int            @id @unique @default(autoincrement())
+  title          String
+  description    String
+  difficulty     Difficulty
+  input_example  String
+  output_example String
+  topic          String
+  solutions      Solution[]
+  gameQuestions  gameQuestion[]
+}
+
+model Message {
+  id        Int      @id @default(autoincrement())
+  content   String
+  createdAt DateTime @default(now())
+  username  String
+  lobbyId   Int
+  room      Room     @relation(fields: [lobbyId], references: [id])
+}
+
+model Solution {
+  id            Int      @id @unique @default(autoincrement())
+  code          String
+  qid           Int
+  username      String
+  output        String
+  points        Int
+  timeEnd       DateTime
+  timeStart     DateTime
+  gid           Int
+  language      String
+  executionTime Int
+  game          Game     @relation(fields: [gid], references: [id])
+  question      Question @relation(fields: [qid], references: [id])
+  user          User     @relation(fields: [username], references: [username])
+}
+
+model gameQuestion {
+  qid      Int
+  gid      Int
+  game     Game     @relation(fields: [gid], references: [id])
+  question Question @relation(fields: [qid], references: [id])
+
+  @@id([qid, gid])
+}
+
+enum Difficulty {
+  Easy
+  Medium
+  Hard
+}
